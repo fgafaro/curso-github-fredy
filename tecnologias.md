@@ -29,6 +29,7 @@ Localice el renglón que lista la tecnología de su interés y modifique únicam
 |-|-|-|-|
 |1|Sistemas de Control de Versiones|[Git](https://git-scm.com/)|1|
 |2|Moral Machine|[Start Judging]( https://www.moralmachine.net/)|1|
+|3|Inteligencia artificial (https://www.elespectador.com/tecnologia/chatgpt-responde-como-se-puede-ganar-dinero-con-su-inteligencia-artificial/)|1|
 |||||
 
 ---
