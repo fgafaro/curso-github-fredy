@@ -29,6 +29,7 @@ Localice el renglón que lista la tecnología de su interés y modifique únicam
 |-|-|-|-|
 |1|Sistemas de Control de Versiones|[Git](https://git-scm.com/)|1|
 |2|Moral Machine|[Start Judging]( https://www.moralmachine.net/)|1|
+|3|Machine Learning|[Start Judging]( [https://www.moralmachine.net](https://www.ibm.com/co-es/analytics/machine-learning)/)|1|
 |||||
 
 ---
